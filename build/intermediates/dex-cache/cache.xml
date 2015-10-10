@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-a3277d49985474982bdedbb8ac961f054df430b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1-0c79ebbba63d7e3eb63f3dbd62cdbc244a24a421.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\classes-b3e9d672582f95edfcda500df13db632c54bf120.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\classes-070d8914ff3cc3b8362df986635edca78af80bb8.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\classes-30ce367e2a1040eb81db0c2c9da8c4f080473982.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\classes-354b2d3a1f6d132b3ae03425d140c6b6191012b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\classes-d9e91096f3f0a848fc4aca2c9d60d18bfc27a510.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\classes-6b93ccc0b27173eff320307cfef61623731565a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\classes-ae5b16790382f6df6f61ea8e39365bf091a65c1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\classes-00f134923425a7490ffd40d5e8a152ec7c1aba54.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\classes-dc0b8e0f5636a0bc90a2093849e3333c6a6c64b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\classes-fb73c82de746ce28381061e3c0709f9e1a8a8cee.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\classes-0dabfcf7edd205ead1a3d8bae9fa399048dee360.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\classes-1ac33e20547be6a4fb3e2774be2ee364e384c517.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\classes-18dd752c19fc4ca8731210bfcd7a04b15ec80472.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\classes-ca46ba67355b3e551a210c7ee385fca868c2b0c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.1\44780c2cf98f6a3cf4e77f1234d644758b329201\bolts-android-1.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.1-a6c45fecbb431c4e4ec4cd69cf37e6775296e8d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\classes-dbba625ce06525e7d7aab11f50349853841834d8.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\classes-54412a036200739933d2ed30c29cdcbef433dc98.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\classes-cfdfdc5a25176d578882382dc5c0c386dda9d06a.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\classes-7b120eb8c3f6d1539a2642c46b6fbc2c1fa44e85.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\classes-3d9681e820fe24a905e766f90ec334f2b3d16ea8.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\classes-8cf950b616c87bc04561995d8677c44dd50e90f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\classes-f454917588e63858ac771ecfa28de51703bab278.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\ParseFacebookUtilsV4-1.10.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="81f498fa332ac7dff56ccbbef03e3d9f96ff67c8">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\ParseFacebookUtilsV4-1.10.1-bb02be7f169453dab3279c066b940cb72db1afd5.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\classes-4c42672312735043cc3761c92f88370eadeb513b.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.10.1\a87cb993a12e574a216213d0b8b2b78f6da35d37\parse-android-1.10.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a87cb993a12e574a216213d0b8b2b78f6da35d37">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\parse-android-1.10.1-b875ac0b1cb4403a7f65d14add75c26d9bd6c419.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\classes-ccedcfa1eeaeee9f2b55c78e099d09e3c8c6a9da.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\FoodTrucker4.0\FoodTrucker2.0\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-d592833a1d0919931e3692d55e5c5fb7bab0f699.jar" />
+    </item>
+
+</items>
